@@ -9,3 +9,7 @@ const setBestCustomer = ()=>{
     return bestCustomer;
 }
 
+const overwriteBestCustomer = (nm)=>{
+    bestCustomer = nm;
+    return bestCustomer;
+}

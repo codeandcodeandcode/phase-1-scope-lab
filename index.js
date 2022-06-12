@@ -13,3 +13,5 @@ const overwriteBestCustomer = (nm)=>{
     bestCustomer = nm;
     return bestCustomer;
 }
+
+const leastFavoriteCustomer = "jammie";
